@@ -1,3 +1,3 @@
 # Dijkstra-Algorithm
- Implementation of Dijkstra's shortest path algorithm
+ C Implementation of Dijkstra's shortest path algorithm
 
